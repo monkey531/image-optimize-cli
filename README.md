@@ -1,5 +1,25 @@
+<div align="center">
+
 # `image-optimize-cli`
 
+[![Contributors](https://img.shields.io/github/contributors/muhammad-fiaz/image-optimize-cli.svg)](https://github.com/muhammad-fiaz/image-optimize-cli/graphs/contributors)
+[![Last Commit](https://img.shields.io/github/last-commit/muhammad-fiaz/image-optimize-cli/main.svg)](https://github.com/muhammad-fiaz/image-optimize-cli/commits/main)
+[![npm version](https://badge.fury.io/js/image-optimize-cli.svg)](https://badge.fury.io/js/image-optimize-cli)
+[![GitHub issues](https://img.shields.io/github/issues/muhammad-fiaz/image-optimize-cli.svg)](https://github.com/muhammad-fiaz/image-optimize-cli/issues)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/muhammad-fiaz/image-optimize-cli)](https://github.com/muhammad-fiaz/image-optimize-cli/pulls)
+[![GitHub forks](https://img.shields.io/github/forks/muhammad-fiaz/image-optimize-cli.svg)](https://github.com/muhammad-fiaz/image-optimize-cli/network)
+[![GitHub stars](https://img.shields.io/github/stars/muhammad-fiaz/image-optimize-cli.svg)](https://github.com/muhammad-fiaz/image-optimize-cli/stargazers)
+[![GitHub followers](https://img.shields.io/github/followers/muhammad-fiaz?label=Follow)](https://github.com/muhammad-fiaz?tab=followers)
+[![Sponsor on GitHub](https://img.shields.io/badge/Sponsor%20on%20GitHub-Become%20a%20Sponsor-blue)](https://github.com/sponsors/muhammad-fiaz)
+
+<div align="center">
+<h3> Join our Discord Community: </h3>
+
+[![Join Our Discord](https://img.shields.io/badge/Discord-Join_us!-blue?style=flat&logo=discord)](https://discord.com/invite/pMw7nfBzXz)
+
+</div>
+<br/>
+</div>
 `image-optimize-cli` is a library that dynamically optimizes images based on user internet speed and quality settings. It provides components for React, Vue, and Angular, and also supports plain JavaScript usage.
 
 ## Installation
