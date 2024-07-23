@@ -1,0 +1,1 @@
+{"version":3,"file":"optimizer.d.ts","sourceRoot":"","sources":["optimizer.ts"],"names":[],"mappings":"AAAA,UAAU,eAAe;IACvB,OAAO,CAAC,EAAE,MAAM,CAAA;IAChB,KAAK,CAAC,EAAE,MAAM,CAAA;IACd,MAAM,CAAC,EAAE,MAAM,CAAA;IACf,MAAM,CAAC,EAAE,MAAM,CAAA;CAChB;AAED,wBAAgB,aAAa,CAAC,GAAG,EAAE,MAAM,EAAE,OAAO,GAAE,eAAoB,GAAG,MAAM,CAuBhF"}

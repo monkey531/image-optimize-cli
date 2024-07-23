@@ -1,0 +1,47 @@
+{
+  "name": "image-optimize-cli",
+  "version": "0.0.0",
+  "description": "A library for optimizing images dynamically based on user internet speed and quality settings.",
+  "main": "src/index.js",
+"module": "src/index.js",
+  "types": "src/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "prepublishOnly": "npm run build",
+    "format": "prettier --write src/",
+    "lint": "eslint 'src/**/*.{js,jsx,ts,tsx,vue}' --fix"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muhammad-fiaz/image-optimize-cli.git"
+  },
+  "keywords": [
+    "image-optimization",
+    "dynamic-image",
+    "image-processing"
+  ],
+  "author": "Muhammad Fiaz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/muhammad-fiaz/image-optimize-cli/issues"
+  },
+  "homepage": "https://github.com/muhammad-fiaz/image-optimize-cli#readme",
+  "dependencies": {
+    "@angular/core": "^18.1.1",
+    "vue": "^3.4.33"
+  },
+  "devDependencies": {
+    "typescript": "^5.5.4",
+    "vue-tsc": "^2.0.28",
+    "prettier": "^3.3.3",
+    "eslint": "^9.7.0",
+    "@typescript-eslint/parser": "^7.17.0",
+    "@typescript-eslint/eslint-plugin": "^7.17.0"
+  },
+  "exports": {
+    ".": "./src/index.js",
+    "./react": "./src/react/index.js",
+    "./vue": "./src/vue/index.js",
+    "./angular": "./src/angular/index.js"
+  }
+}
