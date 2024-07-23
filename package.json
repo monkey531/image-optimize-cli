@@ -42,8 +42,5 @@
     "./react": "./src/react/index.js",
     "./vue": "./src/vue/index.js",
     "./angular": "./src/angular/index.js"
-  },
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com"
   }
 }
